@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-link {
+    color:#fff;
+    padding-block: 1em;
+    font-size: 1.3em;
+}
+
+main {
+    font-family: 'Inter', sans-serif;
+
+    background-color: black;
+    color:#fff;
+}
+
+.card {
+    background-color: black;
+}
+
+footer {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer div ul li {
+    padding-block: 1em;
+    list-style: none;
+}
+
+footer div ul li a {
+    color: #fff;
+    font-size: 1.3em;
+    text-decoration: none;
+}
+
+.fa-brands {
+    color: #fff;
+    font-size: 2em;
+    padding-inline: 0.6em;
+
+}
+
+
+.boton {
+    background-color: #fff;
+    border-radius: 2em;
+    padding-block: .6em;
+    padding-inline: 1em;
+    font-size: 1.3em;
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.fa-arrow-right {
+    font-size: .7em;
+    padding-block: .2em;
+    padding-left: 1.1em;
+}
